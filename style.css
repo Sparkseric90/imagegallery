@@ -26,11 +26,11 @@ body {
 
 button {
   border: 0;
-  background: rgba(150,150,150,0.6);
+  background: rgba(77, 77, 77, 0.6);
   text-shadow: 1px 1px 1px white;
   border: 1px solid #999;
   position: absolute;
-  cursor: pointer;
+  cursor: crosshair;
   top: 2px;
   left: 2px;
 }
